@@ -8,7 +8,7 @@
 - [Customers dataset](https://github.com/brendaakweongo/Customers/blob/main/Excel/Customers.csv).
 
 ### Tools
-- Python(Numpy, Pandas, Matplotlib) - View [Junyper Notebook](https://github.com/brendaakweongo/Customers/blob/main/Python/Customers.ipynb)
+- Python(Numpy, Pandas, Matplotlib) - View [Jupyter Notebook](https://github.com/brendaakweongo/Customers/blob/main/Python/Customers.ipynb)
 - MySQL Server 2018 for data analysis - View [SQL scripts](https://github.com/brendaakweongo/Customers/blob/main/SQL/Customers.sql)
 - Power BI for data visualisation
 
