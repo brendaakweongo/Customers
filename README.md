@@ -2,11 +2,10 @@
 
 
 ### Business Task
-- Analyse hotel revenue.
-- Analyse increasing parking lot size.
+- Analyse customers of a business.
 
 ### Data Set
-- Hotel revenue data from 2018 to 2020 from [Absent Data](https://www.absentdata.com/hotel_revenue_historical_full).
+- [Customers dataset](https://www.absentdata.com/hotel_revenue_historical_full).
 
 ### Tools
 - MySQL Server 2018 for data analysis - View [SQL scripts](https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelRevenue.sql)
