@@ -5,7 +5,7 @@
 - Analyse customers of a business.
 
 ### Data Set
-- [Customers dataset](https://www.absentdata.com/hotel_revenue_historical_full).
+- [Customers dataset](https://github.com/brendaakweongo/Customers/blob/main/Customers.csv).
 
 ### Tools
 - MySQL Server 2018 for data analysis - View [SQL scripts](https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelRevenue.sql)
