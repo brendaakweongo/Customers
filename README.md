@@ -15,5 +15,5 @@
 ### Dashboard
 
 <kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysisbyYear.png"></kbd>
+![image](https://user-images.githubusercontent.com/114441414/224027497-8c113a97-0621-496f-a9ba-f79efb13d635.png)
 
-<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysisbyHotel.png"></kbd>
