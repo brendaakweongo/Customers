@@ -8,6 +8,7 @@
 - [Customers dataset](https://github.com/brendaakweongo/Customers/blob/main/Customers.csv).
 
 ### Tools
+- Python(Numpy, Pandas, Matplotlib)
 - MySQL Server 2018 for data analysis - View [SQL scripts](https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelRevenue.sql)
 - Power BI for data visualisation
 
