@@ -1,5 +1,7 @@
 create database customers;
 
+#imported csv file containing data
+
 use customers;
 
 #Displaying the data
